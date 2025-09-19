@@ -15,7 +15,7 @@ sections:
     actions:
       - label: RELATOS
         altText: ''
-        url: ''
+        url: 'https://trupestone.my.canva.site/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
