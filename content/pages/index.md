@@ -144,7 +144,7 @@ sections:
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
