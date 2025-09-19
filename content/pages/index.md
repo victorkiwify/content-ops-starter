@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Venha conhecer o melhor curso de conversão Extrema
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: sua vida vai mudar por completo !
     text: |
