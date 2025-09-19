@@ -31,11 +31,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/5.2 Tag de Conversão.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: Trupestone
       color: text-primary
