@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Venha conhecer o melhor curso de converçao Extrema
+      text: Venha conhecer o melhor curso de conversão Extrema
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
