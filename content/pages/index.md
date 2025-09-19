@@ -106,7 +106,7 @@ sections:
       loop: true
       muted: false
     badge:
-      label: Key Benefits
+      label: tRUPESTONE
       color: text-primary
       styles:
         self:
