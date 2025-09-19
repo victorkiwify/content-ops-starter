@@ -13,7 +13,7 @@ sections:
 
       ****
     actions:
-      - label: Get started
+      - label: RELATOS
         altText: ''
         url: /
         showIcon: false
