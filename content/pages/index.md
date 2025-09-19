@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/8.1 Suporte Conversão Extrema.jpg
+      url: /images/3.3 Exemplo_CertificadoConversaoExtrema.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
