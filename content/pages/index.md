@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/3.3 Exemplo_CertificadoConversaoExtrema.png
+      url: /images/10.1 Aula Bônus - 9 Inimigos do Resultado.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
