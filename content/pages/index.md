@@ -2,51 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Venha conhecer o melhor curso de conversão Extrema
-      color: text-primary
-      type: TitleBlock
-    subtitle: sua vida vai mudar por completo !
-    text: |
-      **veja relatos abaixo**
-
-      ****
-    actions:
-      - label: RELATOS
-        altText: ''
-        url: 'https://trupestone.my.canva.site/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Cursos gratis
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    badge:
-      label: Trupestone
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
