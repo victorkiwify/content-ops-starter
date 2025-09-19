@@ -77,7 +77,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Curso CONVER
+      text: '[Curso] Conversão extrema'
       color: text-dark
       styles:
         self:
